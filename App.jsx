@@ -10,11 +10,6 @@ export default function App() {
     const [exercises, setExercises] = React.useState([])
     const [customWorkout, setCustomWorkout]= React.useState([])
     
-    
-    
-    // set background to a picture of a gym
-    
-
 React.useEffect(()=>{
     setCustomWorkout(exercises.filter(workout => workout.inCustomWorkout))
 
