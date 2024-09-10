@@ -1,9 +1,14 @@
 # Exercise-Me
+![ExerciseMe](https://github.com/user-attachments/assets/c27661a2-d908-42f5-8681-6e186bd04ef5)
+
 
 # Site Demo
 
 Live Site Demo https://exercise-me.netlify.app
 
+# Description
+
+Exercise-Me is a dynamic fitness app designed to streamline your workout routine. Simply choose a body part, and the app instantly fetches tailored exercises from an external API, complete with engaging GIFs that demonstrate proper form. The user can toggle detailed instructions for each exercise, and effortlessly build your own custom workout plan by adding your favorites. Exercise-Me helps you stay organized and focused on your fitness goals, all in one easy-to-use platform.
 
 ## Features
    - Body Part Selection: Choose exercises based on specific body parts.
