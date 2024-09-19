@@ -1,5 +1,6 @@
 # Exercise-Me
-![ExerciseMe](https://github.com/user-attachments/assets/c27661a2-d908-42f5-8681-6e186bd04ef5)
+<img src="https://github.com/user-attachments/assets/5155d7fc-cc81-4090-a439-f7341fac9fc9" alt="Exercise-me" width="500" height="300" />
+
 
 
 # Site Demo
